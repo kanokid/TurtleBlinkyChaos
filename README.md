@@ -1,4 +1,4 @@
-# resolution-design-week-2
+# TurtleBlinkyChaos
 This is a PCB design in the shape of a turtle that uses three astable multivibrators and SPDT switches to create a chaos blinky with two LEDs for the eyes that blink on and off, on and off, in kind of a random order depending on how you flip the switches.
 ![resolution hardware week 2 simulation](https://github.com/user-attachments/assets/a4863202-088c-4894-8cd8-e161c15e2b4b)
 
