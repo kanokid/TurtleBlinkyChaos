@@ -1,0 +1,1 @@
+For part 8 of TurtleBlinkyChaos (which was lapsed but lapse failed on me sadly), I continued putting components onto my board in the outline and was rearranging the parts to fit and to route nicely. I also routed all the traces for the board too
